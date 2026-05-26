@@ -1,0 +1,1 @@
+echo "WiFi: CoffeeShop_Free" 
